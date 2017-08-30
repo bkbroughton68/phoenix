@@ -129,6 +129,22 @@
         <object>mm_FAQ__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabVisibilities>
+        <tab>Venue__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+	<tabVisibilities>
+        <tab>Vendor__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Track__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>            
+    <tabVisibilities>
+        <tab>mm_FAQ__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>            
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

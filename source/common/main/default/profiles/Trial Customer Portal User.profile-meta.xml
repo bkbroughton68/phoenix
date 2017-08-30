@@ -93,6 +93,10 @@
     <layoutAssignments>
         <layout>mm_FAQ__c-FAQ Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Venue__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>High Volume Customer Portal</userLicense>
     <userPermissions>
         <enabled>true</enabled>
