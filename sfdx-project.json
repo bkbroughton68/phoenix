@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "source/common",
+      "default": true
+    },
+    {
+      "path": "source/ui"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "40.0"
+}

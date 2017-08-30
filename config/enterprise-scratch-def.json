@@ -1,0 +1,12 @@
+{
+  "orgName": "Matson Money",
+  "edition": "Enterprise",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": [
+      "ChatterEnabled"
+    ]
+  }
+}
